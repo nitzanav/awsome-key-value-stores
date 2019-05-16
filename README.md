@@ -1,4 +1,4 @@
-# Awsome Key Value Stores persisted and in-memory
+# Awsome Key Value Stores (persisted and in-memory)
 
 |Link|Statement|Persisted / In-memory|Language|
 :-----:|:-----:|:-----:|:-----:
